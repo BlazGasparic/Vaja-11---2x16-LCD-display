@@ -12,7 +12,7 @@ SLIKA VEZJA
 
 
 
-VPRAŠANJA IN ODGOVORI:
+__VPRAŠANJA IN ODGOVORI:__
 
 b) Za RS in E priključka na LCD zaslonu izberite in aktivirajte ustrezna pina __RS -> PB11__ in __E -> PB12__ kot GPIO_Output
 (SAMO pini PB11, PB12, PB13, PA11, PC7 in PC6 so 5V tolerant). Pine tudi ustrezno preimenujte v RS in E 
@@ -27,6 +27,10 @@ bo __24__ MHz
 f) V zavihku Pinout & Configuration pod rubriku System Core kliknite gumb GPIO. Kakšna je nastavljena 
 hitrost podatkov na vodilih (max. output speed) ? __Low__.
 
-h) Za __x__ MIN = 0, MAX = 15
+
+h) 
+   Za __x__ MIN = 0, MAX = 15
+
+
    Za __y__ MIN = 0, MAX = 2
 
