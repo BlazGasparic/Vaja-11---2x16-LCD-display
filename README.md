@@ -34,15 +34,18 @@ h)
 
    Za __y__ MIN = 0, MAX = 2
 
-Kaj počne funkcija "itoa"?
+__Kaj počne funkcija "itoa"?__
+
 Funkcija pretvori celo število (int) v niz znakov (string oziroma tabelo char).
 
-Zakaj jo moramo uporabiti?
-Funkcijo itoa uporabimo zato, ker LCD zaslon ne more neposredno prikazovati številskih vrednosti, ampak sprejema samo znake oziroma ASCII kode. Funkcija itoa pretvori število v niz znakov, da ga lahko funkcija Puts pravilno izpiše na zaslon. Na primer, število 5 pretvori v znak '5'.
+__Zakaj jo moramo uporabiti?__
 
-Kaj pomeni tretji argument v tej funkciji?
+Funkcijo itoa uporabimo zato, ker LCD zaslon ne more neposredno prikazovati številskih vrednosti, ampak sprejema samo znake oziroma ASCII kode. Funkcija pretvori število v niz znakov, da ga lahko funkcija Puts pravilno izpiše na zaslon. Na primer, število 5 pretvori v znak '5'.
+
+__Kaj pomeni tretji argument v tej funkciji?__
+
 Določi kateri številski sistem uporabi za pretvorbo, v tem primeru 10 pomeni decimalni sistem.
 
 
 __KOMENTAR:__
-Stvar  je dovolj jasna samo kar zakomplicirana, na koncu mi ni hotela čisto delovati in ne vem kje in zakaj mi ni hotelo delovati. zato samo samo oddajam za pozitivno oceno.
+Stvar  je dovolj jasna samo kar zakomplicirana, na koncu mi ni hotela čisto delovati in ne vem kje in zakaj se mi je zalomilo, zato oddajam vse kar mi pa je vspelo narediti.
